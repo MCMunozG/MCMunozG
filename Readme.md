@@ -3,7 +3,7 @@
 <p align="center">📍 Cali, Colombia</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="600"/>
+  <img src="URL_DEL_GIF_ELEGIDO" alt="coding animation" width="300"/>
 </p>
 
 ---
