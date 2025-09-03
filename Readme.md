@@ -1,17 +1,15 @@
-# 👋 Hi, I'm Manuel Camilo Muñoz Grijalba  
-### 💻 Backend Developer | 📊 Data Analyst in progress  
-📍 Cali, Colombia  
+<h1 align="center">👋 Hi, I'm Manuel Camilo Muñoz Grijalba</h1>
+<h3 align="center">💻 Backend Developer | 📊 Data Analyst in progress</h3>
+<p align="center">📍 Cali, Colombia</p>
 
 ---
 
 ## 🚀 About Me  
-
-| I’m a passionate **Backend Developer** with a growing focus on **Data Science & AI**.  
+I’m a passionate **Backend Developer** with a growing focus on **Data Science & AI**.  
 Currently studying **Java with Spring Boot** and **Hexagonal Architecture**, and experienced in **Laravel, PHP, JavaScript, and Python**.  
 
 ✨ I love building scalable applications, automating processes, and applying data-driven solutions.  
-👨‍💻 I’ve participated in **hackathons**, led **academic projects with SCRUM**, and explored **machine learning** for NLP. | <img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" alt="developer gif" width="260"/> |
-|---|---|
+👨‍💻 I’ve participated in **hackathons**, led **academic projects with SCRUM**, and explored **machine learning** for NLP.  
 
 ---
 
