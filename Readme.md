@@ -1,30 +1,17 @@
-<h1 align="center">👋 Hi, I'm Manuel Camilo Muñoz Grijalba</h1>
-<h3 align="center">💻 Backend Developer | 📊 Data Analyst in progress</h3>
-<p align="center">📍 Cali, Colombia</p>
+# 👋 Hi, I'm Manuel Camilo Muñoz Grijalba  
+### 💻 Backend Developer | 📊 Data Analyst in progress  
+📍 Cali, Colombia  
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 24px;">
-      <p>
-      I’m a passionate <strong>Backend Developer</strong> with a growing focus on <strong>Data Science &amp; AI</strong>.<br>
-      Currently studying <strong>Java with Spring Boot</strong> and <strong>Hexagonal Architecture</strong>, and experienced in <strong>Laravel, PHP, JavaScript, and Python</strong>.
-      </p>
+| I’m a passionate **Backend Developer** with a growing focus on **Data Science & AI**.  
+Currently studying **Java with Spring Boot** and **Hexagonal Architecture**, and experienced in **Laravel, PHP, JavaScript, and Python**.  
 
-      <ul>
-        <li>✨ I love building scalable applications, automating processes, and applying data-driven solutions.</li>
-        <li>👨‍💻 I’ve participated in <strong>hackathons</strong>, led <strong>academic projects with SCRUM</strong>, and explored <strong>machine learning</strong> for NLP.</li>
-      </ul>
-    </td>
-
-    <td style="width:320px; text-align:center; vertical-align: middle;">
-      <img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" alt="developer gif" width="260" style="border-radius:10px;"/>
-    </td>
-  </tr>
-</table>
+✨ I love building scalable applications, automating processes, and applying data-driven solutions.  
+👨‍💻 I’ve participated in **hackathons**, led **academic projects with SCRUM**, and explored **machine learning** for NLP. | <img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" alt="developer gif" width="260"/> |
+|---|---|
 
 ---
 
@@ -64,19 +51,19 @@
 
 ### 🏋️ Personal Fitness Tracker Application  
 A **Spring Boot + Hexagonal Architecture** app to log workouts, track progress, and manage exercises.  
-🔧 *Tech:* Java, Spring Boot, Maven, MySQL, Git
+🔧 *Tech:* Java, Spring Boot, Maven, MySQL, Git  
 
 ---
 
 ### 🚖 Transportation Service Scheduling System  
 Backend system for **scheduling transportation services**, focused on **reliability and scalability**.  
-🔧 *Tech:* PHP, Laravel, MySQL, Git
+🔧 *Tech:* PHP, Laravel, MySQL, Git  
 
 ---
 
 ### 📊 Report Classification NLP Module  
 NLP solution to **classify reports by priority (high/medium/low)**, improving operational efficiency.  
-🔧 *Tech:* Python, NLP, Scikit-learn, NLTK, Pandas
+🔧 *Tech:* Python, NLP, Scikit-learn, NLTK, Pandas  
 
 ---
 
@@ -85,16 +72,16 @@ NLP solution to **classify reports by priority (high/medium/low)**, improving op
 📘 **Data Science** – Oracle Next Education (2025)  
 📘 **Java Basic** – Globant University (2021)  
 📘 **Data Systematization & Analytical Methods** – SENA (2020 – 2021)  
-📘 **Software Programming Technician** – SENA (2020 – 2021)
+📘 **Software Programming Technician** – SENA (2020 – 2021)  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:mcamilomunozg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/mcamilomunozg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:mcamilomunozg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/mcamilomunozg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
