@@ -2,18 +2,21 @@
 <h3 align="center">💻 Backend Developer | 📊 Data Analyst in progress</h3>
 <p align="center">📍 Cali, Colombia</p>
 
-<p align="center">
-  <img src="URL_DEL_GIF_ELEGIDO" alt="coding animation" width="300"/>
-</p>
-
 ---
 
 ## 🚀 About Me  
-I’m a passionate **Backend Developer** with a growing focus on **Data Science & AI**.  
-Currently studying **Java with Spring Boot** and **Hexagonal Architecture**, and experienced in **Laravel, PHP, JavaScript, and Python**.  
 
-✨ I love building scalable applications, automating processes, and applying data-driven solutions.  
-👨‍💻 I’ve participated in **hackathons**, led **academic projects with SCRUM**, and explored **machine learning** for NLP.  
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 280px;">
+    I’m a passionate **Backend Developer** with a growing focus on **Data Science & AI**.  
+    Currently studying **Java with Spring Boot** and **Hexagonal Architecture**, and experienced in **Laravel, PHP, JavaScript, and Python**.  
+
+    ✨ I love building scalable applications, automating processes, and applying data-driven solutions.  
+    👨‍💻 I’ve participated in **hackathons**, led **academic projects with SCRUM**, and explored **machine learning** for NLP.  
+  </div>
+
+  <img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" alt="developer gif" width="260" style="border-radius: 10px; margin-left: 20px;"/>
+</div>
 
 ---
 
